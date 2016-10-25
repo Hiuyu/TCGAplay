@@ -48,13 +48,27 @@ As a growing knowledge system for cancer, the GDC also enables researchers to su
 ## before you start
 
 
+
 ## access to data
 
+Localization is the 1st step to re-analysis of the data. You can do this by **GDC data transfer tool** or **TCGAbiolinks**. See *preview of data* section.
+
+### GDC data transfer tool
+
+See https://gdc.cancer.gov/access-data/gdc-data-transfer-tool.
+
+### TCGAbiolinks
+
+see https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html#updates.
 
 ## preview of data
 
+You can preview the datasets by GDC data portal or TCGAbiolinks (updated version, supported by Bioconductor).
+- GDC data portal, https://gdc-portal.nci.nih.gov/
+- TCGAbiolinks, https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html#updates
 
 ## re-analysis of data
+
 
 
 ## integration of data from different platforms
