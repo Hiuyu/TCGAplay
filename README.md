@@ -11,20 +11,20 @@ Below is a list of cancers that have been selected for study based on the criter
 
 TCGA is no longer accepting additional samples for characterization. 
 Analysis is underway in the following Analysis Working Groups (AWGs):
-- 1 Cervical cancer
-- 2 Cholangiocarcinoma
-- 3 Esophageal carcinoma
-- 4 Liver hepatocellular carcinoma
-- 5 Mesothelioma
-- 6 Pancreatic ductal adenocarcinoma
-- 7 Paraganglioma & Pheochromocytoma
-- 8 Sarcoma
-- 9 Testicular germ cell cancer
-- 10 Thymoma
-- 11 Uterine carcinosarcoma
-- 12 Uveal melanoma
+- 1 Cervical cancer，宫颈癌
+- 2 Cholangiocarcinoma，胆管癌
+- 3 Esophageal carcinoma，食管癌
+- 4 Liver hepatocellular carcinoma，肝细胞癌
+- 5 Mesothelioma，间皮瘤
+- 6 Pancreatic ductal adenocarcinoma，胰腺导管腺癌
+- 7 Paraganglioma & Pheochromocytoma，副神经节瘤&成嗜铬细胞瘤
+- 8 Sarcoma，肉瘤
+- 9 Testicular germ cell cancer，睾丸癌
+- 10 Thymoma，胸腺瘤
+- 11 Uterine carcinosarcoma，子宫肉瘤
+- 12 Uveal melanoma，葡萄膜黑色素瘤
 
-(*Copy from TCGA official website*)
+(*Copy from TCGA official website @ 2016-10-25*)
 
 ## Contents
 - before you start
