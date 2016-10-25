@@ -26,6 +26,17 @@ Analysis is underway in the following Analysis Working Groups (AWGs):
 
 (*Copy from TCGA official website @ 2016-10-25*)
 
+## more than TCGA
+
+The National Cancer Institute’s (**NCI’s**) **Genomic Data Commons** (GDC) is a data sharing platform that promotes precision medicine in oncology. It is not just a database or a tool; it is an expandable knowledge network supporting the import and standardization of genomic and clinical data from cancer research programs.
+
+The GDC contains NCI-generated data from some of the largest and most comprehensive cancer genomic datasets, including The Cancer Genome Atlas (**TCGA**) and Therapeutically Applicable Research to Generate Effective Therapies (**TARGET**). For the first time, these datasets have been harmonized using a common set of bioinformatics pipelines, so that the data can be directly compared.
+
+As a growing knowledge system for cancer, the GDC also enables researchers to submit data, and harmonizes these data for import into the GDC. As more researchers add clinical and genomic data to the GDC, it will become an even more powerful tool for making discoveries about the molecular basis of cancer that may lead to better care for patients.
+
+(*cp from GDC website @ 2016-10-25*)
+
+
 ## Contents
 - before you start
 - access to data
