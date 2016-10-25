@@ -61,6 +61,12 @@ See https://gdc.cancer.gov/access-data/gdc-data-transfer-tool.
 
 see https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html#updates.
 
+### installation episode
+
+Befor I go further, the installation of both softwares got into trouble:
+- nothing happened after double-click the .exe of GDC tool
+- for TCGAbiolinks, biocLite() didn't meet the latest version, but old version which cannot link to GDC data portal. Installation by localized binary source code got into a trouble of which i've no idea.  (*2016-10-15*)
+
 ## preview of data
 
 You can preview the datasets by GDC data portal or TCGAbiolinks (updated version, supported by Bioconductor).
