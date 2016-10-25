@@ -57,9 +57,27 @@ Localization is the 1st step to re-analysis of the data. You can do this by **GD
 
 See https://gdc.cancer.gov/access-data/gdc-data-transfer-tool.
 
-### TCGAbiolinks
+### TCGAbiolinks -> GDC data portal
 
 see https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html#updates.
+
+### TCGAretriever -> cBioPortal
+
+see https://cran.rstudio.com/web/packages/TCGAretriever/TCGAretriever.pdf, or http://www.biotechworld.it/bioinf/2016/07/11/tcga-data-via-tcgaretriever/
+
+#### core functions for TCGAretriever
+
+- get_cancer_types(), List of all Cancer Types listed on the server
+
+- get_cancer_studies(), List of all Cancer Studies available on the server
+
+- get_case_lists(), Given a cancer study of interest, which patients (cases) were tested by which type of analysis
+
+- expand_cases(), Returns a list where each case_list_id is reported together with the individual case identifiers
+
+#### after my try
+
+> If you wanna download raw data, you'd better skip this. it isn't a good choice to download seqeuncing data. Alternatively, it can only give you a profile of the datasets included in cBioPortal.
 
 ### installation episode
 
@@ -69,9 +87,14 @@ Befor I go further, the installation of both softwares got into trouble:
 
 ## preview of data
 
-You can preview the datasets by GDC data portal or TCGAbiolinks (updated version, supported by Bioconductor).
+You can preview the datasets by GDC data portal or TCGAbiolinks (updated version, supported by Bioconductor), or cBioPortal.
 - GDC data portal, https://gdc-portal.nci.nih.gov/
 - TCGAbiolinks, https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html#updates
+- cBioPortal, http://www.cbioportal.org/index.do, or http://stke.sciencemag.org/content/6/269/pl1.long.
+
+
+
+- more ?
 
 ## re-analysis of data
 
